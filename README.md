@@ -1,11 +1,11 @@
-Bitcore Jolicoin Library
+Bitcore JoliCoin Library
 =======
 
-A pure and powerful JavaScript JoliCoin library.
+A pure and powerful JavaScript JoliCoin (JOLI) library.
 
 ## Principles
 
-JoliCoin is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the JoliCoin network allows for highly resilient JoliCoin infrastructure, and the developer community needs reliable, open-source tools to implement Jolicoin apps and services.
+JoliCoin is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the JoliCoin network allows for highly resilient JoliCoin infrastructure, and the developer community needs reliable, open-source tools to implement JoliCoin apps and services.
 
 ## Get Started
 
