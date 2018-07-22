@@ -2,7 +2,6 @@
   "name": "bitcore-lib-joli",
   "version": "0.13.20",
   "description": "A pure and powerful JavaScript JoliCoin library.",
-  "author": "J_O_L_I_NAME <J_O_L_I_EMAIL>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -61,7 +60,7 @@
     },
     {
       "name": "Larry Ludlow",
-      "email": "larry@myh.ush.org"
+      "email": "larry@myhush.org"
     },
     {
       "name": "The Trunk",
